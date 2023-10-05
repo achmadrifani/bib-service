@@ -1,0 +1,6 @@
+streamlit
+altair
+pandas
+folium
+streamlit-folium
+datetime
